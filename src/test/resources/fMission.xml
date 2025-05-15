@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="fMission" thread-count="1">
+    <test name="fCheckin">
+        <classes>
+            <class name="fCheckin.UTCC018"/>
+            <class name="fCheckin.UTCC022"/>
+            <class name="fCheckin.UTCC023"/>
+            <class name="fCheckin.UTCC024"/>
+            <class name="fCheckin.UTCC025"/>
+            <class name="fCheckin.UTCC033"/>
+            <class name="fCheckin.UTCC034"/>
+            <class name="fCheckin.UTCC038"/>
+            <class name="fCheckin.UTCC039"/>
+            <class name="fCheckin.UTCC040"/>
+            <class name="fCheckin.UTCC041"/>
+        </classes>
+    </test>
+</suite>
+
